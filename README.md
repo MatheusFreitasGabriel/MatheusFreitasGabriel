@@ -24,8 +24,9 @@ Sou desenvolvedor Android com especialização em **Flutter** e experiência em 
 ---
 
 ### 📈 Estatísticas do GitHub
-<div style="display: flex; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=MatheusFreitasGabriel&show_icons=true&theme=onedark" alt="Estatísticas do Matheus">
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github-readme-stats.vercel.app/api?username=MatheusFreitasGabriel&show_icons=true&theme=dracula" alt="Estatísticas do Matheus">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusFreitasGabriel&layout=compact&theme=onedark" alt="Linguagens Mais Usadas">
 </div>
 
 ---
