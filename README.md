@@ -1,7 +1,7 @@
 ## Olá me chamo Matheus de Freitas Gabriel! seja bem vindo ao meu perfil
 
 <div style="display: inline_block"><br>
-  <h2>Tecnoloagias que eu tenho afinidade</h2>h2><br>
+  <h4>Tecnoloagias que eu tenho afinidade</h4><br>
   <img align="center" alt="Matheus-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Matheus-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Matheus-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
