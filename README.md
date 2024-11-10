@@ -1,4 +1,4 @@
-## 🧑‍💻 Olá! Eu sou o Matheus de Freitas Gabriel, desenvolvedor mobile! 📱  
+## <div style="color: #ecf0f1; font-family: 'Courier New', Courier, monospace; font-size: 2.5em; animation: typing 4s steps(40) 1s 1 normal both;">Matheus de Freitas Gabriel</div>
 Bem-vindo ao meu perfil GitHub!
 
 ---
@@ -39,3 +39,21 @@ Sou desenvolvedor Android com especialização em **Flutter** e experiência em 
 </div>
 
 ---
+
+<style>
+@keyframes typing {
+  from {
+    width: 0;
+  }
+  to {
+    width: 100%;
+  }
+}
+
+div {
+  overflow: hidden;
+  white-space: nowrap;
+  border-right: .15em solid #ecf0f1;
+  width: 0;
+}
+</style>
