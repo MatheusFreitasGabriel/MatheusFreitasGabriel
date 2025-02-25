@@ -13,12 +13,18 @@ Sou desenvolvedor Android com especialização em **Flutter** e experiência em 
 <div style="display: flex; gap: 10px;">
   <img align="center" alt="Matheus-Dart" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg">
   <img align="center" alt="Matheus-Flutter" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg">
+  <img align="center" alt="Matheus-Firebase" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/firebase/firebase-original.svg">
+  <img align="center" alt="Matheus-AndroidStudio" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/androidstudio/androidstudio-original.svg">
+  <img align="center" alt="Matheus-Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/kotlin/kotlin-original.svg">
+  <img align="center" alt="Matheus-Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/figma/figma-original.svg">
   <img align="center" alt="Matheus-JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Matheus-TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Matheus-Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/angular/angular-original.svg">
   <img align="center" alt="Matheus-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Matheus-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Matheus-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Matheus-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Matheus-Gradle" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/gradle/gradle-original.svg">
 </div>
 
 ---
